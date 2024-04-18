@@ -1,2 +1,2 @@
 # procollab
-Kelompok Amru, Asrofi, JJJonathan
+Kelompok Amru, Asrofi, Jonathan
