@@ -12,13 +12,10 @@ body {
   
   #features {
     padding: 20px;
+    display: flex;
+    display: inline-block;
   }
   
-  #subscribe {
-    background-color: #f9f9f9;
-    padding: 20px;
-    text-align: center;
-  }
   
   form {
     margin-top: 10px;
